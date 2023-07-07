@@ -112,7 +112,7 @@ void loop() {
     // analogWrite(motorRspeed, 90);
     digitalWrite(R1, LOW); 
     digitalWrite(R2, HIGH);
-    // Serial.println("re phai");
+    Serial.println("re phai");
 
   }
   if(LS > dogiat && RS < dogiat){
@@ -120,11 +120,11 @@ void loop() {
     // analogWrite(motorLspeed, 90);
     digitalWrite(L1, LOW); 
     digitalWrite(L2, HIGH);
-    // Serial.println("re trai");
+    Serial.println("re trai");
 
   }
   if((RS > dogiat && LS > dogiat) || (RS < dogiat && LS < dogiat)){
-    // Serial.println("di");
+    Serial.println("di");
     analogWrite(motorRspeed, tocdo); 
     analogWrite(motorLspeed, tocdo);
     digitalWrite(R1, HIGH); 
