@@ -1,4 +1,4 @@
-# robot-follow-line
+# robot-follow-line 
 *In nghiêng*
 **Bôi đậm**
 ***Vừa in nghiêng vừa bôi đậm***
@@ -10,4 +10,3 @@
 3. Use Modul LD298
 ***
 > Will update soon
-{@youtobe: https://www.youtube.com/watch?v=P5v-0u-7CFo}
