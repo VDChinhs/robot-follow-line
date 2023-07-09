@@ -34,21 +34,21 @@ void loop() {
   Serial.println(S1);
   
 
-  // if(S1 = HIGH){
-  //   Serial.println("s1");
-  // }
-  // if(S2 = HIGH){
-  //   Serial.println("s2");
-  // }
-  // if(S3 = HIGH){
-  //   Serial.println("s3");
-  // }
-  // if(S4 = HIGH){
-  //   Serial.println("s4");
-  // }
-  // if(S5 = HIGH){
-  //   Serial.println("s5");
-  // }
+  if(S1 = HIGH){
+    Serial.println("s1");
+  }
+  if(S2 = HIGH){
+    Serial.println("s2");
+  }
+  if(S3 = HIGH){
+    Serial.println("s3");
+  }
+  if(S4 = HIGH){
+    Serial.println("s4");
+  }
+  if(S5 = HIGH){
+    Serial.println("s5");
+  }
 
 
 }
