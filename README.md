@@ -10,3 +10,9 @@
 3. Use Modul LD298
 ***
 > Will update soon
+```sh
+AFMotor
+Ardunio-liquiCrystal_I2C
+NewPing-master
+UCTRONICS_Smart_Robot_Car
+```
