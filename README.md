@@ -2,7 +2,7 @@
 1. Follow line 4 sensor
 2. Follow line 2 sensor
 3. Use Modul LD298
-4. PID line sensor
+4. PID line 5 sensor
 ***
 > Will update soon
 ```sh
